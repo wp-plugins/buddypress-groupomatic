@@ -13,7 +13,10 @@ BuddyPress Group-O-Matic automatically adds members to groups based on extended 
 #### What is Group-O-Matic?
 
 Group-O-Matic is an extension of the BuddyPress Extended Profile component, and is configured from the
-extended profile Edit Field screen.
+extended profile Edit Field screen. It allows administrators to define rules for automatically
+adding members to groups based on their responses to extended profile fields.
+
+You can see all of Group-O-Matic's features in action by watching the [demo video](http://vimeo.com/37754800)
 
 This plugin is different than other plugins with similar functionality in two very big ways:
 
@@ -34,8 +37,6 @@ A [pro version](http://shop.presscrew.com/shop/buddypress-groupomatic/) is avail
 * Wildcard Pattern Matching - supports using meta-characters like: *, ?, [abc]
 * PCRE Pattern Matching - for absolute control over the matching algorithm.
 * Premium Support - get professional support directly from the plugin's author.
-
-You can see all of Group-O-Matic's features in action by watching the [demo video](http://vimeo.com/37754800)
 
 == Screenshots ==
 
